@@ -6,9 +6,13 @@ EOS-MDS区块浏览
 ==================================
 （待更新）
 
-开发/测试工具
+BP列表
 ==================================
-除EOS DAWN 3.0自带的cleos程序外，我们也推荐[EOSDevHelper](https://github.com/OracleChain/EOSDevHelper)图形化工具，提高操作的便利性。
+| Producer Name | Host | HTTP Port | P2P Port| Location | Organisation |
+| ------------- |:-------------:|:-----:|:---------:|:-----------:|-----------:|
+| eosio     | eostestnet1.medishares.net| 8888 |9876| ShangHai | Medishares|
+| panda     | eostestnet2.medishares.net| 8888 |9876| ShangHai | Medishares|
+| wait for you |      |     |     |    |   |
 
 加入EOS-MDS测试网
 ==================================
@@ -58,6 +62,10 @@ producer-name: 节点账户名(随便填一个即可).
 
 8.Your public key
 
+开发/测试工具
+==================================
+除EOS DAWN 3.0自带的cleos程序外，我们也推荐[EOSDevHelper](https://github.com/OracleChain/EOSDevHelper)图形化工具，提高操作的便利性。
+
 交流讨论
 ==================================
 如操作过程遇到任何问题，欢迎通过如下任一方式交流讨论。
@@ -66,7 +74,7 @@ EOSdata社区：http://eosdata.io/
 
 Twitter: https://twitter.com/MediShares
 
-Telegram: https://t.me/medishares https://t.me/medisharesCN https://t.me/medisharesEN
+Telegram: https://t.me/eosmedishares
 
 Weibo: http://weibo.com/MediShares
 
