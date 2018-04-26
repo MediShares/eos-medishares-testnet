@@ -23,5 +23,6 @@
     "max_inline_action_size": 4096,
     "max_generated_transaction_count": 16
   },
+
   "initial_chain_id": "0000000000000000000000000000000000000000000000000000000000000000"
 }
