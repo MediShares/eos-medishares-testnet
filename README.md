@@ -9,9 +9,10 @@ EOS-MDS区块浏览
 BP列表
 ==================================
 | Producer Name | Host | HTTP Port | P2P Port| Location | Organisation |
-| ------------- |:-------------:|:-----:|:---------:|:-----------:|-----------:|
-| eosio     | eostestnet1.medishares.net| 8888 |9876| ShangHai | Medishares|
-| panda     | eostestnet2.medishares.net| 8888 |9876| ShangHai | Medishares|
+| ------------- |:-------------:|:-----:|:---------: |:-----------:|-----------:|
+| eosio     | eostestnet1.medishares.net| 8888 |9876 | ShangHai | Medishares|
+| panda     | eostestnet2.medishares.net| 8888 |9876 | ShangHai | Medishares|
+| r2ai      | block3.newa-tech.com      | 23011|23012| ShangHai | r2ai      |
 | wait for you |      |     |     |    |   |
 
 加入EOS-MDS测试网
